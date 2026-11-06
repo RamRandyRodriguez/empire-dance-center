@@ -1,0 +1,7 @@
+{
+  "name": "edc-mockup",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mockup local de Empire Dance Center",
+  "scripts": { "start": "node server.cjs", "check": "node --check app.js && node --check server.cjs" }
+}

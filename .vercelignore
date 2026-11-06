@@ -1,0 +1,7 @@
+.git/
+node_modules/
+.env
+.env.*
+preview-*.png
+server.cjs
+README.md
